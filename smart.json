@@ -1,0 +1,17 @@
+{
+  "packages": {
+    "scss": {},
+    "bourbon": {},
+    "neat": {},
+    "jade": {},
+    "font-awesome": {},
+    "iron-router": {},
+    "spin": {},
+    "houston": {},
+    "roles": {},
+    "accounts-entry": {},
+    "jquery": {},
+    "profile": {},
+    "bower": {}
+  }
+}
