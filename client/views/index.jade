@@ -3,7 +3,8 @@ head
     title Meteor Base
     link(href='/img/favicon.ico', rel='icon', type='image/x-icon')
 
-template(name="layout")
-    +yield region="header"
-    +yield
-    +yield region="footer"
+body
+    template(name="layout")
+        +yield region="header"
+        +yield
+        +yield region="footer"
