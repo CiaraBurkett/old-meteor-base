@@ -34,8 +34,8 @@
       },
       "jade": {
         "git": "https://github.com/mquandalle/meteor-jade.git",
-        "tag": "v0.2.0",
-        "commit": "b0273abb6f13316c335f60bdedc0ee1026748058"
+        "tag": "v0.2.1",
+        "commit": "969fc3dd0adbb15304e3e13c3e27260398d89503"
       },
       "font-awesome": {
         "git": "https://github.com/nate-strauser/meteor-font-awesome.git",
@@ -54,18 +54,18 @@
       },
       "houston": {
         "git": "https://github.com/gterrono/houston.git",
-        "tag": "v1.0.1",
-        "commit": "59653d3a345a438c83bfd5244b992a19c4b014d7"
+        "tag": "v1.0.2",
+        "commit": "c9af02ec7b52b5ea061a36d260386aa25644507d"
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
-        "tag": "v1.2.6",
-        "commit": "f2a9058281f8f2fe028767841d7445aadd6893cf"
+        "tag": "v1.2.8",
+        "commit": "68844ba216c348d332bdb840825850f497f515bb"
       },
       "accounts-entry": {
-        "git": "https://github.com/BeDifferential/accounts-entry.git",
-        "tag": "v0.6.2",
-        "commit": "56c9b6c064cc0d92a97aa9b53a8f4da050f54c29"
+        "git": "https://github.com/Differential/accounts-entry.git",
+        "tag": "v0.7.2",
+        "commit": "cda8617139b5edd79a52023986bfecb48e4b9dc4"
       },
       "jquery": {
         "git": "https://github.com/nrafter/meteor-jquery.git",
@@ -73,14 +73,14 @@
         "commit": "3edf878d51e6f03eff70e1a7a969a19f42b6f1a1"
       },
       "profile": {
-        "git": "https://github.com/BeDifferential/meteor-profile.git",
-        "tag": "v0.0.8",
-        "commit": "a79eed39b871d4c384b76d77b78e318eb2f300fd"
+        "git": "https://github.com/Differential/meteor-profile.git",
+        "tag": "v0.0.9",
+        "commit": "01dfe6835deea1bc4a1d7d89637b3be36d027751"
       },
       "bower": {
         "git": "https://github.com/mquandalle/meteor-bower.git",
-        "tag": "v0.1.5",
-        "commit": "4e96fa0365414371e412c8c5b79e7b4c2e6cefbf"
+        "tag": "v0.1.6",
+        "commit": "73b090d6354e03525cf945b7d7d71d60100a9a63"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
@@ -94,13 +94,13 @@
       },
       "just-i18n": {
         "git": "https://github.com/subhog/meteor-just-i18n.git",
-        "tag": "v0.1.1",
-        "commit": "ce88ac66c0dc107dc2da93ce152616115838101f"
+        "tag": "v0.2.4",
+        "commit": "91decfcf5b3b5e67f202a67658350b862330bf3d"
       },
       "accounts-t9n": {
         "git": "https://github.com/softwarerero/meteor-accounts-t9n.git",
-        "tag": "v0.0.2",
-        "commit": "408e3a037114cb72163073110e2121e3d548c1a2"
+        "tag": "v0.0.3",
+        "commit": "d1710f979d6955459d9ce0374df81d22c3c6a6ab"
       }
     }
   }

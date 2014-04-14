@@ -4,7 +4,11 @@ head
     link(href='/img/favicon.ico', rel='icon', type='image/x-icon')
 
 body
-    template(name="layout")
+    +layout
+
+template(name="layout")
         +yield region="header"
         +yield
         +yield region="footer"
+
+
