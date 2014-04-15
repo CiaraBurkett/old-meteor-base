@@ -12,8 +12,6 @@
       "houston": {},
       "roles": {},
       "accounts-entry": {},
-      "jquery": {},
-      "profile": {},
       "bower": {}
     },
     "packages": {
@@ -66,16 +64,6 @@
         "git": "https://github.com/Differential/accounts-entry.git",
         "tag": "v0.7.2",
         "commit": "cda8617139b5edd79a52023986bfecb48e4b9dc4"
-      },
-      "jquery": {
-        "git": "https://github.com/nrafter/meteor-jquery.git",
-        "tag": "v2.0.31",
-        "commit": "3edf878d51e6f03eff70e1a7a969a19f42b6f1a1"
-      },
-      "profile": {
-        "git": "https://github.com/Differential/meteor-profile.git",
-        "tag": "v0.0.9",
-        "commit": "01dfe6835deea1bc4a1d7d89637b3be36d027751"
       },
       "bower": {
         "git": "https://github.com/mquandalle/meteor-bower.git",
