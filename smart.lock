@@ -32,13 +32,13 @@
       },
       "jade": {
         "git": "https://github.com/mquandalle/meteor-jade.git",
-        "tag": "v0.2.2",
-        "commit": "0391abab7d592b17ff74d9b9beaa721051970729"
+        "tag": "v0.2.3",
+        "commit": "38220544108cdc30e2e53f40481dce0b594d6f31"
       },
       "font-awesome": {
         "git": "https://github.com/nate-strauser/meteor-font-awesome.git",
-        "tag": "v4.0.3",
-        "commit": "61e9361384347547ae144f8228faa4deffda23db"
+        "tag": "v4.1.0",
+        "commit": "ce6b1e92715d1938babc5d69c655c17e387f5926"
       },
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
@@ -57,8 +57,8 @@
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
-        "tag": "v1.2.8",
-        "commit": "68844ba216c348d332bdb840825850f497f515bb"
+        "tag": "v1.2.9",
+        "commit": "969b17fac5dfec66b6b12bfce4e37471d1a241d4"
       },
       "accounts-entry": {
         "git": "https://github.com/Differential/accounts-entry.git",
