@@ -17,8 +17,8 @@
     "packages": {
       "scss": {
         "git": "https://github.com/fourseven/meteor-scss.git",
-        "tag": "v0.8.7",
-        "commit": "d085b7272eacc20866abff61b25c915a22ddbcf4"
+        "tag": "v0.9.3",
+        "commit": "185f3b2787fb85e653f7b7bf603d1493ed14943d"
       },
       "bourbon": {
         "git": "https://github.com/chicagogrooves/meteor-bourbon.git",
@@ -52,8 +52,8 @@
       },
       "houston": {
         "git": "https://github.com/gterrono/houston.git",
-        "tag": "v1.0.4",
-        "commit": "e76bda40587ac80ce51ee417047be8272664625c"
+        "tag": "v1.0.5",
+        "commit": "10693cdc8f1a5f27d82b34bf3ae344857775c808"
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
