@@ -52,13 +52,13 @@
       },
       "houston": {
         "git": "https://github.com/gterrono/houston.git",
-        "tag": "v1.0.5",
-        "commit": "10693cdc8f1a5f27d82b34bf3ae344857775c808"
+        "tag": "v1.0.6",
+        "commit": "49765acf835385de6de6160b0c86514d5af09395"
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
-        "tag": "v1.2.9",
-        "commit": "969b17fac5dfec66b6b12bfce4e37471d1a241d4"
+        "tag": "v1.2.10",
+        "commit": "7ccb35de0a6cb0c9a0c3666badd04757e39c09a6"
       },
       "accounts-entry": {
         "git": "https://github.com/Differential/accounts-entry.git",
