@@ -14,7 +14,8 @@
       "accounts-entry": {},
       "bower": {},
       "sugar": {},
-      "harmony": {}
+      "harmony": {},
+      "zf5": {}
     },
     "packages": {
       "scss": {
@@ -81,6 +82,11 @@
         "git": "https://github.com/mquandalle/meteor-harmony.git",
         "tag": "v1.2.1",
         "commit": "433d276ddcc61eb80606eb15f4552f4fc3fbb8ca"
+      },
+      "zf5": {
+        "git": "https://github.com/juliancwirko/meteor-zf5.git",
+        "tag": "v0.0.5",
+        "commit": "e7378382dadad29ab1c08a6b11f2e4d258669f15"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
