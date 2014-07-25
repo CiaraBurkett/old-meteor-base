@@ -50,13 +50,13 @@
       },
       "spin": {
         "git": "https://github.com/SachaG/meteor-spin.git",
-        "tag": "v0.2.2",
-        "commit": "3f655f0016228e4195acc784c45d3e3a247dc39f"
+        "tag": "v2.0.3",
+        "commit": "23c1145472a710d5c93fa4beaca4e576caeb2f24"
       },
       "houston": {
         "git": "https://github.com/gterrono/houston.git",
-        "tag": "v1.0.6",
-        "commit": "49765acf835385de6de6160b0c86514d5af09395"
+        "tag": "v1.0.7",
+        "commit": "a27e9e42d03764f09a6681a98945787fe1f6303d"
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
@@ -65,8 +65,8 @@
       },
       "accounts-entry": {
         "git": "https://github.com/Differential/accounts-entry.git",
-        "tag": "v0.7.3",
-        "commit": "7facaa045d3720eeeba3420c28e48d5709188fe3"
+        "tag": "v0.8.0",
+        "commit": "cf7f7d0ecc285824bc2748e305f5d693df99b4ae"
       },
       "bower": {
         "git": "https://github.com/mquandalle/meteor-bower.git",
@@ -85,8 +85,8 @@
       },
       "zf5": {
         "git": "https://github.com/juliancwirko/meteor-zf5.git",
-        "tag": "v0.0.5",
-        "commit": "e7378382dadad29ab1c08a6b11f2e4d258669f15"
+        "tag": "v0.0.7",
+        "commit": "eb340d279fc2657f8d006e91c74039e80c4029fc"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
@@ -103,10 +103,20 @@
         "tag": "v0.0.5",
         "commit": "ad9539a8818049d5d9fa050d8b2a1f62706483b1"
       },
+      "simple-form": {
+        "git": "https://github.com/Differential/simple-form.git",
+        "tag": "v0.1.8",
+        "commit": "1ea0d3621b333e6f24f37e0e93efd3c081068716"
+      },
       "exports": {
         "git": "https://github.com/christianbundy/meteor-exports.git",
         "tag": "v1.0.0",
         "commit": "3fd51053c2a16b94519e2720be7b70feb654e5a7"
+      },
+      "underscore-string-latest": {
+        "git": "https://github.com/TimHeckel/meteor-underscore-string.git",
+        "tag": "v2.3.3",
+        "commit": "4a5d70eee48fbd90a6e6fc78747250d704a0b3bb"
       }
     }
   }
