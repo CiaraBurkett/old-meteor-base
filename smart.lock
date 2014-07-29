@@ -11,11 +11,9 @@
       "spin": {},
       "houston": {},
       "roles": {},
-      "accounts-entry": {},
       "bower": {},
       "sugar": {},
-      "harmony": {},
-      "zf5": {}
+      "harmony": {}
     },
     "packages": {
       "scss": {
@@ -63,15 +61,10 @@
         "tag": "v1.2.10",
         "commit": "7ccb35de0a6cb0c9a0c3666badd04757e39c09a6"
       },
-      "accounts-entry": {
-        "git": "https://github.com/Differential/accounts-entry.git",
-        "tag": "v0.8.0",
-        "commit": "cf7f7d0ecc285824bc2748e305f5d693df99b4ae"
-      },
       "bower": {
         "git": "https://github.com/mquandalle/meteor-bower.git",
-        "tag": "v0.1.8",
-        "commit": "5699c3f29a936dcb2aa1221a9febd4669764fc91"
+        "tag": "v0.1.10",
+        "commit": "ba0081a9f2919918f48f6b2f9e2f33729c79aecc"
       },
       "sugar": {
         "git": "https://github.com/bevanhunt/meteor-sugar.git",
@@ -83,11 +76,6 @@
         "tag": "v1.2.1",
         "commit": "433d276ddcc61eb80606eb15f4552f4fc3fbb8ca"
       },
-      "zf5": {
-        "git": "https://github.com/juliancwirko/meteor-zf5.git",
-        "tag": "v0.0.7",
-        "commit": "eb340d279fc2657f8d006e91c74039e80c4029fc"
-      },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
         "tag": "v0.2.4",
@@ -98,25 +86,10 @@
         "tag": "v0.2.2",
         "commit": "2133a2163575f569f90253f81314f21b2bf08d20"
       },
-      "accounts-t9n": {
-        "git": "https://github.com/softwarerero/meteor-accounts-t9n.git",
-        "tag": "v0.0.5",
-        "commit": "ad9539a8818049d5d9fa050d8b2a1f62706483b1"
-      },
-      "simple-form": {
-        "git": "https://github.com/Differential/simple-form.git",
-        "tag": "v0.1.8",
-        "commit": "1ea0d3621b333e6f24f37e0e93efd3c081068716"
-      },
       "exports": {
         "git": "https://github.com/christianbundy/meteor-exports.git",
         "tag": "v1.0.0",
         "commit": "3fd51053c2a16b94519e2720be7b70feb654e5a7"
-      },
-      "underscore-string-latest": {
-        "git": "https://github.com/TimHeckel/meteor-underscore-string.git",
-        "tag": "v2.3.3",
-        "commit": "4a5d70eee48fbd90a6e6fc78747250d704a0b3bb"
       }
     }
   }
